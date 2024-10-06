@@ -140,11 +140,11 @@ You are free to use, modify, and distribute this software as long as the origina
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/visheshrwl/Uber-like/issues/12) in [visheshrwl/Uber-like](https://github.com/visheshrwl/Uber-like)
-2. 💪 Opened PR [#11](https://github.com/visheshrwl/Uber-like/pull/11) in [visheshrwl/Uber-like](https://github.com/visheshrwl/Uber-like)
-3. 💪 Opened PR [#1](https://github.com/Emilio-PdeA/Uber-like/pull/1) in [Emilio-PdeA/Uber-like](https://github.com/Emilio-PdeA/Uber-like)
-4. 🗣 Commented on [#35](https://github.com/c0sm0void/ReVot/pull/35#issuecomment-2395475713) in [c0sm0void/ReVot](https://github.com/c0sm0void/ReVot)
-5. 🗣 Commented on [#35](https://github.com/c0sm0void/ReVot/pull/35#issuecomment-2395454136) in [c0sm0void/ReVot](https://github.com/c0sm0void/ReVot)
+1. ❗ Opened issue [#697](https://github.com/0xflotus/ip2d/issues/697) in [0xflotus/ip2d](https://github.com/0xflotus/ip2d)
+2. 🗣 Commented on [#696](https://github.com/0xflotus/ip2d/issues/696#issuecomment-2395550141) in [0xflotus/ip2d](https://github.com/0xflotus/ip2d)
+3. ❗ Opened issue [#12](https://github.com/visheshrwl/Uber-like/issues/12) in [visheshrwl/Uber-like](https://github.com/visheshrwl/Uber-like)
+4. 💪 Opened PR [#11](https://github.com/visheshrwl/Uber-like/pull/11) in [visheshrwl/Uber-like](https://github.com/visheshrwl/Uber-like)
+5. 💪 Opened PR [#1](https://github.com/Emilio-PdeA/Uber-like/pull/1) in [Emilio-PdeA/Uber-like](https://github.com/Emilio-PdeA/Uber-like)
 <!--END_SECTION:activity-->
 
 ---
