@@ -140,11 +140,11 @@ You are free to use, modify, and distribute this software as long as the origina
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#698](https://github.com/0xflotus/ip2d/pull/698) in [0xflotus/ip2d](https://github.com/0xflotus/ip2d)
-2. 💪 Opened PR [#2](https://github.com/Emilio-PdeA/ip2d/pull/2) in [Emilio-PdeA/ip2d](https://github.com/Emilio-PdeA/ip2d)
-3. ❌ Closed PR [#1](https://github.com/Emilio-PdeA/ip2d/pull/1) in [Emilio-PdeA/ip2d](https://github.com/Emilio-PdeA/ip2d)
-4. 💪 Opened PR [#1](https://github.com/Emilio-PdeA/ip2d/pull/1) in [Emilio-PdeA/ip2d](https://github.com/Emilio-PdeA/ip2d)
-5. ❗ Opened issue [#697](https://github.com/0xflotus/ip2d/issues/697) in [0xflotus/ip2d](https://github.com/0xflotus/ip2d)
+1. 🗣 Commented on [#698](https://github.com/0xflotus/ip2d/pull/698#issuecomment-2395592244) in [0xflotus/ip2d](https://github.com/0xflotus/ip2d)
+2. 💪 Opened PR [#698](https://github.com/0xflotus/ip2d/pull/698) in [0xflotus/ip2d](https://github.com/0xflotus/ip2d)
+3. 💪 Opened PR [#2](https://github.com/Emilio-PdeA/ip2d/pull/2) in [Emilio-PdeA/ip2d](https://github.com/Emilio-PdeA/ip2d)
+4. ❌ Closed PR [#1](https://github.com/Emilio-PdeA/ip2d/pull/1) in [Emilio-PdeA/ip2d](https://github.com/Emilio-PdeA/ip2d)
+5. 💪 Opened PR [#1](https://github.com/Emilio-PdeA/ip2d/pull/1) in [Emilio-PdeA/ip2d](https://github.com/Emilio-PdeA/ip2d)
 <!--END_SECTION:activity-->
 
 ---
